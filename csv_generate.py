@@ -9,39 +9,53 @@ from dotenv import load_dotenv
 # CONFIGURATION
 # -------------------------------
 load_dotenv()
-USERNAME = os.getenv('LISTEN_USER')
+USERNAME = os.getenv('LISTEN_USER') # User retreiving listen history for
 USER_TOKEN = os.getenv('API_KEY')  # Get from https://listenbrainz.org/profile/
 OUTPUT_FILE = "listen_history.csv"
-LIMIT = 100  # Max per request (ListenBrainz API limit)
+AUTH_HEADER = {"Authorization": f"Token {USER_TOKEN}"}
 # -------------------------------
 
-API_URL = f"https://api.listenbrainz.org/1/user/{USERNAME}/listens"
 
-def fetch_listens(username, token, limit=100):
-    """Fetch all listens for a user from ListenBrainz API."""
-    listens = []
-    offset = 0
 
-    headers = {"Authorization": f"Token {token}"}
+def get_listens(username, min_ts=None, max_ts=None, count=None):
+    #TODO Extend get_listens to capture entire history. (Currently only can go 1000 at a time)
 
-    while True:
-        params = {"count": limit, "offset": offset}
-        try:
-            resp = requests.get(API_URL, headers=headers, params=params, timeout=10)
-            resp.raise_for_status()
-        except requests.RequestException as e:
-            print(f"Error fetching listens: {e}")
-            sys.exit(1)
 
-        data = resp.json()
-        batch = data.get("payload", {}).get("listens", [])
-        if not batch:
-            break
+    """Gets the listen history of a given user.
 
-        listens.extend(batch)
-        offset += limit
+    Args:
+        username: User to get listen history of.
+        min_ts: History before this timestamp will not be returned.
+                DO NOT USE WITH max_ts.
+        max_ts: History after this timestamp will not be returned.
+                DO NOT USE WITH min_ts.
+        count: How many listens to return. If not specified,
+               uses a default from the server.
 
-    return listens
+    Returns:
+        A list of listen info dictionaries if there's an OK status.
+
+    Raises:
+        An HTTPError if there's a failure.
+        A ValueError if the JSON in the response is invalid.
+        An IndexError if the JSON is not structured as expected.
+    """
+    response = requests.get(
+        url=f"https://api.listenbrainz.org/1/user/{USERNAME}/listens",
+        params={
+            "min_ts": min_ts,
+            "max_ts": max_ts,
+            "count": count,
+        },
+
+        headers=AUTH_HEADER,
+    )
+
+    response.raise_for_status()
+
+    return response.json()["payload"]["listens"]
+
+
 
 def save_to_csv(listens, filename):
     """Save listens to CSV file."""
@@ -59,6 +73,9 @@ def save_to_csv(listens, filename):
             writer.writerow([artist, track, release, listened_at])
 
 if __name__ == "__main__":
-    all_listens = fetch_listens(USERNAME, USER_TOKEN, LIMIT)
-    save_to_csv(all_listens, OUTPUT_FILE)
-    print(f"Exported {len(all_listens)} listens to {OUTPUT_FILE}")
+    listens = get_listens(
+        USER_TOKEN, None, None, 1000)  # count=1000 is maximum listens to pull in 1 request
+
+    save_to_csv(listens, OUTPUT_FILE)
+    print(f"Exported {len(listens)} listens to {OUTPUT_FILE}")
+

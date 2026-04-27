@@ -30,7 +30,7 @@ jobs:
       # Step 4: Run the Python script
       - name: Run script
         run: |
-          python test_generate_csv.py
+          python csv_generate.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
