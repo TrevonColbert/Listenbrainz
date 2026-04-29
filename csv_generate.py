@@ -81,6 +81,8 @@ def listens_to_csv(listens, filename=OUTPUT_FILE):
 
     df = pd.DataFrame(pd.json_normalize(listens))
     df = df.drop_duplicates(subset=["listened_at", "recording_msid"]).reset_index(drop=True)
+    timestamp_cols = ["inserted_at", "listened_at"]
+    df[timestamp_cols] = df[timestamp_cols].apply(pd.to_datetime, unit='s')
     df.to_csv(filename, index=True)
 
     return df
