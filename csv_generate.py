@@ -3,6 +3,7 @@ import csv
 import sys
 import json
 import os
+from datetime import datetime
 from dotenv import load_dotenv
 
 # -------------------------------
@@ -15,11 +16,10 @@ OUTPUT_FILE = "listen_history.csv"
 AUTH_HEADER = {"Authorization": f"Token {USER_TOKEN}"}
 # -------------------------------
 
+#TODO Function using Pandas, to remove duplicates created due to needing to use insterted_at instead of listened_at
+#TODO Use Pandas df.to_csv to replace save_to_csv function
 
-
-def get_listens(username, min_ts=None, max_ts=None, count=None):
-    #TODO Extend get_listens to capture entire history. (Currently only can go 1000 at a time)
-
+def get_listens(username, max_ts=None, count=None):
 
     """Gets the listen history of a given user.
 
@@ -40,20 +40,26 @@ def get_listens(username, min_ts=None, max_ts=None, count=None):
         A ValueError if the JSON in the response is invalid.
         An IndexError if the JSON is not structured as expected.
     """
-    response = requests.get(
-        url=f"https://api.listenbrainz.org/1/user/{USERNAME}/listens",
-        params={
-            "min_ts": min_ts,
-            "max_ts": max_ts,
-            "count": count,
-        },
 
-        headers=AUTH_HEADER,
-    )
+    #Loop until count from JSON response <> count set
+    json_output = []
+    while True:
+        response = requests.get(
+            url=f"https://api.listenbrainz.org/1/user/{USERNAME}/listens",
+            params={
+                "max_ts": max_ts,
+                "count": count,
+            },
 
-    response.raise_for_status()
+            headers=AUTH_HEADER,
+        )
+        response.raise_for_status()
+        max_ts = response.json()["payload"]["listens"][-1]["inserted_at"] #Set max_ts to last song insterted_at
+        json_output += response.json()["payload"]["listens"]
+        if response.json()["payload"]["count"]!=count:
+            break
 
-    return response.json()["payload"]["listens"]
+    return json_output
 
 
 
@@ -69,13 +75,12 @@ def save_to_csv(listens, filename):
             artist = track_meta.get("artist_name", "")
             track = track_meta.get("track_name", "")
             release = track_meta.get("release_name", "")
-            listened_at = listen.get("listened_at", "")
+            listened_at = datetime.fromtimestamp(listen.get("listened_at", ""))
             writer.writerow([artist, track, release, listened_at])
 
 if __name__ == "__main__":
     listens = get_listens(
-        USER_TOKEN, None, None, 1000)  # count=1000 is maximum listens to pull in 1 request
+        USER_TOKEN, None, 1000)  # count=1000 is maximum listens to pull in 1 request
 
     save_to_csv(listens, OUTPUT_FILE)
     print(f"Exported {len(listens)} listens to {OUTPUT_FILE}")
-
