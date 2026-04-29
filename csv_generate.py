@@ -5,6 +5,7 @@ import json
 import os
 from datetime import datetime
 from dotenv import load_dotenv
+import pandas as pd
 
 # -------------------------------
 # CONFIGURATION
@@ -21,11 +22,12 @@ AUTH_HEADER = {"Authorization": f"Token {USER_TOKEN}"}
 
 def get_listens(username, max_ts=None, count=None):
 
-    """Gets the listen history of a given user.
+    """
+    Gets the listen history of a given user.
 
     Args:
         username: User to get listen history of.
-        min_ts: History before this timestamp will not be returned.
+        min_ts: History before this timestamp will not be returned. (Not used in function but part of API)
                 DO NOT USE WITH max_ts.
         max_ts: History after this timestamp will not be returned.
                 DO NOT USE WITH min_ts.
@@ -54,33 +56,38 @@ def get_listens(username, max_ts=None, count=None):
             headers=AUTH_HEADER,
         )
         response.raise_for_status()
-        max_ts = response.json()["payload"]["listens"][-1]["inserted_at"] #Set max_ts to last song insterted_at
+        max_ts = response.json()["payload"]["listens"][-1]["inserted_at"] #Set max_ts to last song inserted_at
         json_output += response.json()["payload"]["listens"]
         if response.json()["payload"]["count"]!=count:
             break
 
     return json_output
 
+def listens_to_csv(listens, filename=OUTPUT_FILE):
 
+    '''
+    Normalizes/flattens listens JSON to a pandas dataframe 
+    Removes duplicates based on listened_at timestamp & recording_msid 
+    Generates user listen history csv
 
-def save_to_csv(listens, filename):
-    """Save listens to CSV file."""
-    with open(filename, mode="w", newline="", encoding="utf-8") as csvfile:
-        writer = csv.writer(csvfile)
-        # CSV header
-        writer.writerow(["artist", "track", "release", "listened_at"])
+    Args:
+        listens: json list supplied by get_listens function
+        filename: filename to use for csv, uses OUTPUT_FILE by default (defined in configuration)
+    
+    Returns:
+        dataframe of listens history
+        Generates csv
+    '''
 
-        for listen in listens:
-            track_meta = listen.get("track_metadata", {})
-            artist = track_meta.get("artist_name", "")
-            track = track_meta.get("track_name", "")
-            release = track_meta.get("release_name", "")
-            listened_at = datetime.fromtimestamp(listen.get("listened_at", ""))
-            writer.writerow([artist, track, release, listened_at])
+    df = pd.DataFrame(pd.json_normalize(listens))
+    df = df.drop_duplicates(subset=["listened_at", "recording_msid"]).reset_index(drop=True)
+    df.to_csv(filename, index=True)
+
+    return df
 
 if __name__ == "__main__":
     listens = get_listens(
         USER_TOKEN, None, 1000)  # count=1000 is maximum listens to pull in 1 request
 
-    save_to_csv(listens, OUTPUT_FILE)
-    print(f"Exported {len(listens)} listens to {OUTPUT_FILE}")
+    listens_csv_df = listens_to_csv(listens,OUTPUT_FILE)
+    print(f"Exported {len(listens_csv_df)} listens to {OUTPUT_FILE}")
