@@ -1,7 +1,6 @@
 import requests
-import sys
-import json
 import os
+import time
 from dotenv import load_dotenv
 import pandas as pd
 
@@ -12,26 +11,24 @@ load_dotenv()
 USERNAME = os.getenv("LISTEN_USER")  # User retreiving listen history for
 USER_TOKEN = os.getenv("API_KEY")  # Get from https://listenbrainz.org/profile/
 OUTPUT_FILE = "listen_history.csv"
+GENRES_FILE = "genres.csv"
 AUTH_HEADER = {"Authorization": f"Token {USER_TOKEN}"}
 # -------------------------------
 
-# TODO Update get_genre to iterate 1000 tracks at a time since this is the maximum allowed by the API
-# TODO get_genre dataframe to csv
 # TODO create an artists table for each track
 
 
-def get_listens(username, max_ts=None, count=None):
+def get_listens(username, max_ts=None, count=1000,sleep=.5):
     """
     Gets the listen history of a given user.
 
     Args:
         username: User to get listen history of.
-        min_ts: History before this timestamp will not be returned. (Not used in function but part of API)
-                DO NOT USE WITH max_ts.
         max_ts: History after this timestamp will not be returned.
                 DO NOT USE WITH min_ts.
         count: How many listens to return. If not specified,
                uses a default from the server.
+        sleep: time to sleep between requests, prevent rate limiting
 
     Returns:
         A list of listen info dictionaries if there's an OK status.
@@ -54,13 +51,14 @@ def get_listens(username, max_ts=None, count=None):
             headers=AUTH_HEADER,
         )
         response.raise_for_status()
-        max_ts = response.json()["payload"]["listens"][-1][
-            "inserted_at"
-        ]  # Set max_ts to last song inserted_at
+        previous_max_ts = max_ts
+        max_ts = response.json()["payload"]["listens"][-1]["inserted_at"]  # Set max_ts to last song inserted_at
+        if previous_max_ts == max_ts:
+            max_ts = response.json()["payload"]["listens"][-1]["listened_at"] #Changes to listened_at for when a mass import occurs
         json_output += response.json()["payload"]["listens"]
+        time.sleep(.5)
         if response.json()["payload"]["count"] != count:
             break
-
     return json_output
 
 
@@ -90,7 +88,7 @@ def listens_cleanup(listens, filename=OUTPUT_FILE):
     return df
 
 
-def get_genre(df):
+def get_genre(df,filename):
     """
     Gets genre for each recording_mbid in dataframe
 
@@ -100,30 +98,32 @@ def get_genre(df):
     Returns:
         dataframe of recording_mbids & genres
     """
-
+    track_genres = []
     df = df[["track_metadata.mbid_mapping.recording_mbid"]]
     df = df.drop_duplicates().dropna()
     recordings_list = df["track_metadata.mbid_mapping.recording_mbid"].to_list()
+    chunks = len(recordings_list)//1000 #Number of chunks of 1000 to iterate through (1000 is max items allowed by API)
+    
+    for i in range(0,chunks+1):
+        response = requests.post(
+            url=f"https://api.listenbrainz.org/1/metadata/recording/",
+            json={
+                "recording_mbids": recordings_list[i*1000:(i+1)*1000],
+                "inc": "tag",
+            },
+            headers=AUTH_HEADER,
+        )
+        df = response.json()
 
-    response = requests.post(
-        url=f"https://api.listenbrainz.org/1/metadata/recording/",
-        json={
-            "recording_mbids": recordings_list,
-            "inc": "tag",
-        },
-        headers=AUTH_HEADER,
-    )
+        for track in df:
+            track_data = df[track]
+            all_genres = []
+            for genre in track_data["tag"]["artist"]:
+                    all_genres.append(genre["tag"])
+            track_genres.append({"recording_mbid": track, "genres": all_genres})
 
-    df = response.json()
-
-    track_genres = []
-    for track in df:
-        genres = df[track]["tag"]["artist"]
-        all_genres = []
-        for genre in genres:
-            all_genres.append(genre["tag"])
-        track_genres.append({"recording_mbid": track, "genres": all_genres})
     track_genres_df = pd.DataFrame(track_genres)
+    track_genres_df.to_csv(filename, index=True)
 
     return track_genres_df
 
@@ -133,6 +133,5 @@ if __name__ == "__main__":
         USER_TOKEN, None, 1000
     )  # count=1000 is maximum listens to pull in 1 request
     listens_df = listens_cleanup(listens, OUTPUT_FILE)
-    get_genre(listens_df)
+    get_genre(listens_df,GENRES_FILE)
     print(f"Exported {len(listens_df)} listens to {OUTPUT_FILE}")
-
