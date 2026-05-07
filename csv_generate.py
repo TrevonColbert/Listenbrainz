@@ -81,7 +81,7 @@ def listens_cleanup(listens, filename=OUTPUT_FILE):
         drop=True
     )
     timestamp_cols = ['inserted_at', 'listened_at']
-    df[timestamp_cols] = df[timestamp_cols].apply(pd.to_datetime, unit="s")
+    df[timestamp_cols] = df[timestamp_cols].apply(lambda s: pd.to_datetime(s, unit='s', utc=True).dt.tz_convert('US/Eastern')) #Convert Epoch to EST timestamps
     df.to_csv(filename, index=True)
 
     return df
