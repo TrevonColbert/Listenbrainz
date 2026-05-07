@@ -124,6 +124,7 @@ def get_genre(df,filename):
             track_genres.append({'recording_mbid': track, 'genres': all_genres})
 
     track_genres_df = pd.DataFrame(track_genres)
+    track_genres_df = track_genres_df.explode('genres')
     track_genres_df.to_csv(filename, index=True)
 
     return track_genres_df
@@ -151,13 +152,14 @@ def get_artists(df,filename=ARTISTS_FILE):
         dataframe of recording_msid, recording_mbid, artists, collab, full_artists, full_track_name
         Generates csv
     '''
+    df = df.drop_duplicates(subset=['recording_msid']).reset_index(drop=True)
     df['artists'] = df['track_metadata.mbid_mapping.artists'].apply(lambda x: extract_artists(x))
     df['collab'] = df['track_metadata.mbid_mapping.artists'].apply(lambda x: extract_artists_collab(x))
     df['full_artists'] = df.apply(lambda row: full_artists(row['artists'], row['collab']), axis=1)
     df['full_track_name'] = df.apply(lambda row: full_track(row['track_metadata.mbid_mapping.recording_name'],row['full_artists'], row['track_metadata.track_name'], row['track_metadata.artist_name']), axis=1)
-    columns_to_keep = ['recording_msid','track_metadata.mbid_mapping.recording_mbid','artists','collab','full_artists','full_track_name']
+    df = df.explode('artists')
+    columns_to_keep = ['recording_msid','track_metadata.mbid_mapping.recording_mbid','artists','full_artists','full_track_name']
     df = df[columns_to_keep]
-    df = df.drop_duplicates(subset=['recording_msid']).reset_index(drop=True)
     df.to_csv(filename, index=True)
     return df
 
@@ -199,6 +201,7 @@ if __name__ == "__main__":
     listens = get_listens(
         USER_TOKEN, None, 1000
     )  # count=1000 is maximum listens to pull in 1 request
+
     listens_df = listens_cleanup(listens, OUTPUT_FILE)
     get_genre(listens_df,GENRES_FILE)
     get_artists(listens_df,ARTISTS_FILE)
