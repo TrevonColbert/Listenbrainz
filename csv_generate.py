@@ -103,7 +103,7 @@ def get_genre(df,filename):
     df = df[['track_metadata.mbid_mapping.recording_mbid']]
     df = df.drop_duplicates().dropna()
     recordings_list = df['track_metadata.mbid_mapping.recording_mbid'].to_list()
-    chunks = len(recordings_list)//1000 #Number of chunks of 1000 to iterate through (1000 is max items allowed by API)
+    chunks = (len(recordings_list)-1)//1000 #Number of chunks of 1000 to iterate through (1000 is max items allowed by API) // Need to do length-1 as if ends on an even multiple of 1000 it will add an extra empty chunk
     
     for i in range(0,chunks+1):
         response = requests.post(
