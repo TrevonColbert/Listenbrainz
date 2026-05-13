@@ -43,6 +43,8 @@ jobs:
           python csv_generate.py
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
-          git diff --exit-code || git commit -am "crongenerated"
-          git push
+          if ! git diff --quiet --cached; then
+            git commit -m "crongenerated"
+            git push
+          else
+            echo "No changes detected."
