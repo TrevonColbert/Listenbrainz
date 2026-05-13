@@ -142,21 +142,21 @@
 21,0547edb2-3eea-4b90-9b18-26dcfc101521,acoustic rock
 21,0547edb2-3eea-4b90-9b18-26dcfc101521,emo-pop
 21,0547edb2-3eea-4b90-9b18-26dcfc101521,pop punk
-22,056fbf4a-a354-447f-91a9-39e0fb823a64,alternative r&b
-22,056fbf4a-a354-447f-91a9-39e0fb823a64,rap
-22,056fbf4a-a354-447f-91a9-39e0fb823a64,hip hop
-22,056fbf4a-a354-447f-91a9-39e0fb823a64,southern hip hop
-22,056fbf4a-a354-447f-91a9-39e0fb823a64,pop rap
 22,056fbf4a-a354-447f-91a9-39e0fb823a64,english
+22,056fbf4a-a354-447f-91a9-39e0fb823a64,alternative r&b
+22,056fbf4a-a354-447f-91a9-39e0fb823a64,neo soul
+22,056fbf4a-a354-447f-91a9-39e0fb823a64,southern hip hop
 22,056fbf4a-a354-447f-91a9-39e0fb823a64,experimental hip hop
 22,056fbf4a-a354-447f-91a9-39e0fb823a64,trap
+22,056fbf4a-a354-447f-91a9-39e0fb823a64,contemporary r&b
+22,056fbf4a-a354-447f-91a9-39e0fb823a64,pop rap
+22,056fbf4a-a354-447f-91a9-39e0fb823a64,hip hop soul
 22,056fbf4a-a354-447f-91a9-39e0fb823a64,pop
 22,056fbf4a-a354-447f-91a9-39e0fb823a64,electronic
 22,056fbf4a-a354-447f-91a9-39e0fb823a64,american
-22,056fbf4a-a354-447f-91a9-39e0fb823a64,neo soul
-22,056fbf4a-a354-447f-91a9-39e0fb823a64,hip hop soul
+22,056fbf4a-a354-447f-91a9-39e0fb823a64,hip hop
+22,056fbf4a-a354-447f-91a9-39e0fb823a64,rap
 22,056fbf4a-a354-447f-91a9-39e0fb823a64,r&b
-22,056fbf4a-a354-447f-91a9-39e0fb823a64,contemporary r&b
 23,05bff6a0-146d-4f8b-9c20-01f9badc48b7,trap
 23,05bff6a0-146d-4f8b-9c20-01f9badc48b7,contemporary rap
 23,05bff6a0-146d-4f8b-9c20-01f9badc48b7,conscious rapper
@@ -182,15 +182,15 @@
 23,05bff6a0-146d-4f8b-9c20-01f9badc48b7,hip hop
 23,05bff6a0-146d-4f8b-9c20-01f9badc48b7,pop rap
 23,05bff6a0-146d-4f8b-9c20-01f9badc48b7,pop
-24,06879155-b9ce-4777-bdc0-f83cd6162760,2010s
-24,06879155-b9ce-4777-bdc0-f83cd6162760,hypnagogic pop
-24,06879155-b9ce-4777-bdc0-f83cd6162760,synth-pop
+24,06879155-b9ce-4777-bdc0-f83cd6162760,alternative r&b
+24,06879155-b9ce-4777-bdc0-f83cd6162760,r&b
+24,06879155-b9ce-4777-bdc0-f83cd6162760,contemporary r&b
 24,06879155-b9ce-4777-bdc0-f83cd6162760,pop
+24,06879155-b9ce-4777-bdc0-f83cd6162760,synth-pop
+24,06879155-b9ce-4777-bdc0-f83cd6162760,hypnagogic pop
 24,06879155-b9ce-4777-bdc0-f83cd6162760,dance-pop
 24,06879155-b9ce-4777-bdc0-f83cd6162760,2020s
-24,06879155-b9ce-4777-bdc0-f83cd6162760,alternative r&b
-24,06879155-b9ce-4777-bdc0-f83cd6162760,contemporary r&b
-24,06879155-b9ce-4777-bdc0-f83cd6162760,r&b
+24,06879155-b9ce-4777-bdc0-f83cd6162760,2010s
 25,06d82ce5-fb26-4522-957a-91645f81fa0f,
 26,06e4802f-6f56-486b-a1c2-534ee9fe902f,rock
 27,078a1158-b49e-4280-802f-bcc0278d5abe,indie pop
@@ -233,13 +233,13 @@
 32,09766ac5-16fc-40ee-a56a-079b37c28d38,alternative metal
 32,09766ac5-16fc-40ee-a56a-079b37c28d38,hardcore
 32,09766ac5-16fc-40ee-a56a-079b37c28d38,metalcore
-33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,2010s
-33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,hip hop
-33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,2020s
-33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,trap rap
-33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,southern hip hop
 33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,english
 33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,trap
+33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,trap rap
+33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,hip hop
+33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,2010s
+33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,2020s
+33,09a613f7-5f9d-414a-9c4a-5c318dfe6b9a,southern hip hop
 34,09f90074-62d9-4ba1-a076-be48a0fbd11a,pop rock
 34,09f90074-62d9-4ba1-a076-be48a0fbd11a,post-hardcore
 34,09f90074-62d9-4ba1-a076-be48a0fbd11a,synthpop
@@ -438,14 +438,14 @@
 63,11db20e4-a946-4d64-bf43-2d7039eeaa16,alternative metal
 63,11db20e4-a946-4d64-bf43-2d7039eeaa16,alternative rock
 64,123a26b4-f63c-40e2-ac3d-01270cee8e20,hip hop
-64,123a26b4-f63c-40e2-ac3d-01270cee8e20,rap
+64,123a26b4-f63c-40e2-ac3d-01270cee8e20,english
+64,123a26b4-f63c-40e2-ac3d-01270cee8e20,trap rap
 64,123a26b4-f63c-40e2-ac3d-01270cee8e20,hip hop
 64,123a26b4-f63c-40e2-ac3d-01270cee8e20,southern hip hop
-64,123a26b4-f63c-40e2-ac3d-01270cee8e20,english
-64,123a26b4-f63c-40e2-ac3d-01270cee8e20,2010s
-64,123a26b4-f63c-40e2-ac3d-01270cee8e20,trap
-64,123a26b4-f63c-40e2-ac3d-01270cee8e20,trap rap
 64,123a26b4-f63c-40e2-ac3d-01270cee8e20,2020s
+64,123a26b4-f63c-40e2-ac3d-01270cee8e20,2010s
+64,123a26b4-f63c-40e2-ac3d-01270cee8e20,rap
+64,123a26b4-f63c-40e2-ac3d-01270cee8e20,trap
 65,124fec9a-d3aa-4bbd-acbc-370757fccd2b,electronic
 65,124fec9a-d3aa-4bbd-acbc-370757fccd2b,post-hardcore
 65,124fec9a-d3aa-4bbd-acbc-370757fccd2b,metalcore
@@ -970,13 +970,13 @@
 155,2654cbca-02c2-4899-9cbd-7fa0cef358ac,djent
 155,2654cbca-02c2-4899-9cbd-7fa0cef358ac,alternative metal
 155,2654cbca-02c2-4899-9cbd-7fa0cef358ac,progressive metal
+156,26c9636e-bfbc-4382-8f84-365682c0e63e,alternative pop
 156,26c9636e-bfbc-4382-8f84-365682c0e63e,djent
 156,26c9636e-bfbc-4382-8f84-365682c0e63e,progressive metal
 156,26c9636e-bfbc-4382-8f84-365682c0e63e,progressive rock
+156,26c9636e-bfbc-4382-8f84-365682c0e63e,alternative r&b
 156,26c9636e-bfbc-4382-8f84-365682c0e63e,art pop
 156,26c9636e-bfbc-4382-8f84-365682c0e63e,alternative metal
-156,26c9636e-bfbc-4382-8f84-365682c0e63e,alternative pop
-156,26c9636e-bfbc-4382-8f84-365682c0e63e,alternative r&b
 157,271ba79a-2bce-4f19-b8ee-2fd577f75485,
 158,272be1e2-9599-4b8d-b872-5e879881d103,soul
 158,272be1e2-9599-4b8d-b872-5e879881d103,pop rock
@@ -1151,22 +1151,22 @@
 192,2fd59961-1971-4f64-84ee-bad865a7ade1,hard rock
 192,2fd59961-1971-4f64-84ee-bad865a7ade1,alternative rock
 193,2fd5e581-49cb-4cc1-a38f-0dc77ebaceef,
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,top 10
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,rap
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,pop
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,top 100
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,hip-hop
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,top 5
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,r&b
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,contemporary r&b
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,hardcore hip hop
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,alternative r&b
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,trap
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,trap rap
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,sxsw
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,pop rap
-194,2fda5a53-e685-473f-b990-07f63ba9de7d,southern hip hop
 194,2fda5a53-e685-473f-b990-07f63ba9de7d,hip hop
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,contemporary r&b
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,r&b
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,pop rap
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,trap rap
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,rap
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,top 5
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,top 10
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,top 100
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,hardcore hip hop
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,hip-hop
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,pop
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,sxsw
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,southern hip hop
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,trap
+194,2fda5a53-e685-473f-b990-07f63ba9de7d,alternative r&b
 195,30a6feb0-e400-44a6-894d-02eb22d7a45a,post-grunge
 195,30a6feb0-e400-44a6-894d-02eb22d7a45a,alternative metal
 195,30a6feb0-e400-44a6-894d-02eb22d7a45a,metal
@@ -1296,12 +1296,12 @@
 210,346255f7-d0c5-48ce-9b69-2e654f60c168,alternative rock
 210,346255f7-d0c5-48ce-9b69-2e654f60c168,power pop
 211,346c5920-4b36-4472-9447-139d2c9e4560,trap
-211,346c5920-4b36-4472-9447-139d2c9e4560,hip hop
-211,346c5920-4b36-4472-9447-139d2c9e4560,pop rap
-211,346c5920-4b36-4472-9447-139d2c9e4560,southern hip hop
 211,346c5920-4b36-4472-9447-139d2c9e4560,rap
-211,346c5920-4b36-4472-9447-139d2c9e4560,experimental hip hop
 211,346c5920-4b36-4472-9447-139d2c9e4560,english
+211,346c5920-4b36-4472-9447-139d2c9e4560,southern hip hop
+211,346c5920-4b36-4472-9447-139d2c9e4560,experimental hip hop
+211,346c5920-4b36-4472-9447-139d2c9e4560,pop rap
+211,346c5920-4b36-4472-9447-139d2c9e4560,hip hop
 212,34c4b1dc-b7d1-42ee-b32b-65f962fa17dd,post-hardcore
 212,34c4b1dc-b7d1-42ee-b32b-65f962fa17dd,rock
 212,34c4b1dc-b7d1-42ee-b32b-65f962fa17dd,millennial
@@ -1529,17 +1529,17 @@
 232,3adb7da0-af37-47cc-9a28-cbb1f14a252b,hardcore hip hop
 232,3adb7da0-af37-47cc-9a28-cbb1f14a252b,hip hop
 233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,swancore
-233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,alternative/indie rock
-233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,emo
-233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,math rock
-233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,experimental
-233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,screamo
-233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,post-hardcore
 233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,emocore
 233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,hardcore
+233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,screamo
+233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,post-hardcore
+233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,experimental
+233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,math rock
+233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,emo
+233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,pop
+233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,alternative/indie rock
 233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,metalcore
 233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,rock
-233,3b20d418-eaa6-4bf5-8900-6b01774e31c7,pop
 234,3b7d9b0b-8828-4bbd-a193-e2c176aa4266,rap
 234,3b7d9b0b-8828-4bbd-a193-e2c176aa4266,hip hop
 235,3b979ae0-6e00-4078-aa1d-a1924703ad86,
@@ -1578,19 +1578,19 @@
 241,3ed88f5e-9803-41fe-997d-273cd0d46f4c,pop punk
 241,3ed88f5e-9803-41fe-997d-273cd0d46f4c,acoustic
 242,3edd30b1-7823-4dec-a251-a151498bd992,
-243,3efaab32-5731-4d5e-bd64-a5aa887035a2,2010s
-243,3efaab32-5731-4d5e-bd64-a5aa887035a2,southern hip hop
+243,3efaab32-5731-4d5e-bd64-a5aa887035a2,english
+243,3efaab32-5731-4d5e-bd64-a5aa887035a2,hip hop
+243,3efaab32-5731-4d5e-bd64-a5aa887035a2,neo soul
+243,3efaab32-5731-4d5e-bd64-a5aa887035a2,alté
 243,3efaab32-5731-4d5e-bd64-a5aa887035a2,alternative r&b
 243,3efaab32-5731-4d5e-bd64-a5aa887035a2,afrobeats
 243,3efaab32-5731-4d5e-bd64-a5aa887035a2,hip hop
 243,3efaab32-5731-4d5e-bd64-a5aa887035a2,rap
 243,3efaab32-5731-4d5e-bd64-a5aa887035a2,trap
-243,3efaab32-5731-4d5e-bd64-a5aa887035a2,english
-243,3efaab32-5731-4d5e-bd64-a5aa887035a2,trap rap
+243,3efaab32-5731-4d5e-bd64-a5aa887035a2,southern hip hop
 243,3efaab32-5731-4d5e-bd64-a5aa887035a2,2020s
-243,3efaab32-5731-4d5e-bd64-a5aa887035a2,hip hop
-243,3efaab32-5731-4d5e-bd64-a5aa887035a2,alté
-243,3efaab32-5731-4d5e-bd64-a5aa887035a2,neo soul
+243,3efaab32-5731-4d5e-bd64-a5aa887035a2,2010s
+243,3efaab32-5731-4d5e-bd64-a5aa887035a2,trap rap
 244,3f3341ea-2219-4954-974d-c7717ce48af7,alternative rock
 244,3f3341ea-2219-4954-974d-c7717ce48af7,indie pop
 244,3f3341ea-2219-4954-974d-c7717ce48af7,southern hip hop
@@ -1673,24 +1673,24 @@
 257,4391c5d1-ccdd-431f-9808-a2eab42824d9,melodic rock
 257,4391c5d1-ccdd-431f-9808-a2eab42824d9,emo
 258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,pop
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,hip hop
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,trap
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,trap
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,r&b
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,2010s
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,contemporary r&b
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,2000s
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,electropop
 258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,dance
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,electro house
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,2020s
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,trap rap
 258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,trap
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,2010s
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,hip hop
-258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,english
 258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,southern hip hop
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,2020s
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,2010s
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,trap rap
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,english
 258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,hip hop
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,hip hop
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,electropop
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,r&b
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,contemporary r&b
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,hip hop
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,electro house
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,2000s
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,2010s
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,trap
+258,43e2a217-bb38-40a9-88f7-ad9dfb2f91b6,trap
 259,44038b3e-4344-4b88-8e82-89a37f37d71c,alternative metal
 259,44038b3e-4344-4b88-8e82-89a37f37d71c,metalcore
 259,44038b3e-4344-4b88-8e82-89a37f37d71c,metal
@@ -2146,22 +2146,22 @@
 327,57ddb1c0-6e7a-49cd-9e92-059286f1c9be,alternative rock
 327,57ddb1c0-6e7a-49cd-9e92-059286f1c9be,nu metal
 327,57ddb1c0-6e7a-49cd-9e92-059286f1c9be,post-grunge
-328,58301927-8817-4237-83e3-d932cfa5cee7,pop
-328,58301927-8817-4237-83e3-d932cfa5cee7,contemporary r&b
-328,58301927-8817-4237-83e3-d932cfa5cee7,alternative r&b
-328,58301927-8817-4237-83e3-d932cfa5cee7,top 10
-328,58301927-8817-4237-83e3-d932cfa5cee7,top 100
 328,58301927-8817-4237-83e3-d932cfa5cee7,rap
-328,58301927-8817-4237-83e3-d932cfa5cee7,hardcore hip hop
-328,58301927-8817-4237-83e3-d932cfa5cee7,southern hip hop
-328,58301927-8817-4237-83e3-d932cfa5cee7,r&b
-328,58301927-8817-4237-83e3-d932cfa5cee7,pop rap
-328,58301927-8817-4237-83e3-d932cfa5cee7,hip hop
-328,58301927-8817-4237-83e3-d932cfa5cee7,trap
-328,58301927-8817-4237-83e3-d932cfa5cee7,top 5
 328,58301927-8817-4237-83e3-d932cfa5cee7,sxsw
+328,58301927-8817-4237-83e3-d932cfa5cee7,top 10
 328,58301927-8817-4237-83e3-d932cfa5cee7,trap rap
+328,58301927-8817-4237-83e3-d932cfa5cee7,pop rap
+328,58301927-8817-4237-83e3-d932cfa5cee7,r&b
+328,58301927-8817-4237-83e3-d932cfa5cee7,top 100
+328,58301927-8817-4237-83e3-d932cfa5cee7,contemporary r&b
+328,58301927-8817-4237-83e3-d932cfa5cee7,hip hop
+328,58301927-8817-4237-83e3-d932cfa5cee7,alternative r&b
+328,58301927-8817-4237-83e3-d932cfa5cee7,trap
+328,58301927-8817-4237-83e3-d932cfa5cee7,southern hip hop
+328,58301927-8817-4237-83e3-d932cfa5cee7,pop
 328,58301927-8817-4237-83e3-d932cfa5cee7,hip-hop
+328,58301927-8817-4237-83e3-d932cfa5cee7,hardcore hip hop
+328,58301927-8817-4237-83e3-d932cfa5cee7,top 5
 329,5835528c-58e6-4436-b959-6c070eb6251b,rap rock
 329,5835528c-58e6-4436-b959-6c070eb6251b,metalcore
 329,5835528c-58e6-4436-b959-6c070eb6251b,post-hardcore
@@ -2255,14 +2255,14 @@
 346,5b002c53-6269-47b2-b7ee-207b8df4a3ba,melodic hardcore
 346,5b002c53-6269-47b2-b7ee-207b8df4a3ba,melodic metalcore
 346,5b002c53-6269-47b2-b7ee-207b8df4a3ba,hardcore
-347,5b1657a5-2e0c-4249-9488-655c7cd969a2,hardcore hip hop
-347,5b1657a5-2e0c-4249-9488-655c7cd969a2,conscious hip hop
-347,5b1657a5-2e0c-4249-9488-655c7cd969a2,trap
-347,5b1657a5-2e0c-4249-9488-655c7cd969a2,trap metal
-347,5b1657a5-2e0c-4249-9488-655c7cd969a2,underground
-347,5b1657a5-2e0c-4249-9488-655c7cd969a2,hip hop
-347,5b1657a5-2e0c-4249-9488-655c7cd969a2,rap
 347,5b1657a5-2e0c-4249-9488-655c7cd969a2,southern hip hop
+347,5b1657a5-2e0c-4249-9488-655c7cd969a2,hardcore hip hop
+347,5b1657a5-2e0c-4249-9488-655c7cd969a2,underground
+347,5b1657a5-2e0c-4249-9488-655c7cd969a2,trap metal
+347,5b1657a5-2e0c-4249-9488-655c7cd969a2,rap
+347,5b1657a5-2e0c-4249-9488-655c7cd969a2,trap
+347,5b1657a5-2e0c-4249-9488-655c7cd969a2,hip hop
+347,5b1657a5-2e0c-4249-9488-655c7cd969a2,conscious hip hop
 348,5ba1fcd3-71b5-4df0-82c8-12d6c1a3b8eb,
 349,5baf3fd9-65d0-4dbd-b2c0-c9cad27b9307,top 100
 349,5baf3fd9-65d0-4dbd-b2c0-c9cad27b9307,j. cole
@@ -2328,22 +2328,22 @@
 358,5e0e80b9-ecd4-4bd7-9290-62ad89816c4a,deathcore
 358,5e0e80b9-ecd4-4bd7-9290-62ad89816c4a,rap
 358,5e0e80b9-ecd4-4bd7-9290-62ad89816c4a,electronic
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,rap
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,sxsw
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,pop
 359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,top 10
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,trap
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,rap
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,hip hop
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,contemporary r&b
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,r&b
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,pop rap
 359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,southern hip hop
 359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,trap rap
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,r&b
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,sxsw
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,trap
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,pop
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,top 5
 359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,top 100
 359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,hardcore hip hop
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,contemporary r&b
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,alternative r&b
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,pop rap
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,hip hop
 359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,hip-hop
-359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,top 5
+359,5eaa5ccd-b4e4-451b-80ac-3d0e7f93dd76,alternative r&b
 360,5ed1ee67-9875-441d-b233-b5521714b17f,trap
 360,5ed1ee67-9875-441d-b233-b5521714b17f,mumble rap
 360,5ed1ee67-9875-441d-b233-b5521714b17f,hip hop
@@ -2500,46 +2500,46 @@
 370,63122b25-ad57-427a-9f2b-50c562f9f1f5,alternative rock
 371,633b8e86-b52c-499e-ab33-74e79c2c3c57,indie rock
 372,638eb6ec-cc41-47aa-86ac-2e9d00b9f7a7,
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,southern hip hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,pop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,southern hip hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hip hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,southern hip-hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,future bass
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,top 5
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,r&b
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,gangsta rap
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hip-hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,atlanta hip-hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,contemporary rap
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,electronica
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,dirty south
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,pop rap
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,sxsw
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,detroit hip hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,top 100
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,trap
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hip hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,trap rap
 373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,rap
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,future bass
 373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,r&b
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,r&b
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,contemporary r&b
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,2010s
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,pop rap
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,southern hip hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hardcore hip hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hardcore hip hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,house
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,electronica
 373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,southern rap
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,southern hip-hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,trap music
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,contemporary rap
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,gangsta rap
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,atlanta hip-hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,criminal
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,pop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hip-hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hardcore hip hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,top 100
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,top 5
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,top 10
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,sxsw
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,southern hip hop
 373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,trap
 373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,alternative r&b
 373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hip hop
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,criminal
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,contemporary r&b
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,r&b
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,pop rap
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hip hop
 373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,trap
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,trap rap
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,house
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,top 10
-373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,trap music
 373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,rap
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,detroit hip hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,r&b
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,southern hip hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,pop rap
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,2010s
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hip hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,trap
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,southern hip hop
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,dirty south
+373,63a5be40-2fdb-4c4f-bf14-b12b8bc55239,hardcore hip hop
 374,63c17bc4-871e-4ef5-bfc2-f457bd68c856,post-hardcore
 374,63c17bc4-871e-4ef5-bfc2-f457bd68c856,experimental rock
 375,63c754d9-37e9-4002-8be3-443baf8d24c2,metal
@@ -2593,24 +2593,24 @@
 382,66adcb12-68a5-4922-81f8-0aca64e01588,easycore
 382,66adcb12-68a5-4922-81f8-0aca64e01588,post-hardcore
 382,66adcb12-68a5-4922-81f8-0aca64e01588,millennial
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,trap
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,pop rap
 383,66cd743a-df31-4627-a8ef-4df5721d55ef,southern hip hop
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,pop rap
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,southern hip hop
 383,66cd743a-df31-4627-a8ef-4df5721d55ef,trap
 383,66cd743a-df31-4627-a8ef-4df5721d55ef,hip hop
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,gangsta rap
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,mumble rap
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,trap
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,hip hop
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,trap
 383,66cd743a-df31-4627-a8ef-4df5721d55ef,southern hip hop
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,hip hop
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,hip hop
 383,66cd743a-df31-4627-a8ef-4df5721d55ef,experimental hip hop
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,trap
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,trap
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,pop rap
 383,66cd743a-df31-4627-a8ef-4df5721d55ef,rap
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,mumble rap
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,gangsta rap
 383,66cd743a-df31-4627-a8ef-4df5721d55ef,english
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,trap
 383,66cd743a-df31-4627-a8ef-4df5721d55ef,hip hop
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,hip hop
-383,66cd743a-df31-4627-a8ef-4df5721d55ef,southern hip hop
+383,66cd743a-df31-4627-a8ef-4df5721d55ef,pop rap
 384,66f3846a-f203-41be-b425-e27db7f360df,alternative metal
 384,66f3846a-f203-41be-b425-e27db7f360df,hard rock
 384,66f3846a-f203-41be-b425-e27db7f360df,alternative rock
@@ -2891,12 +2891,12 @@
 429,71cee15e-e570-434b-a01f-df9c86a29473,indie pop
 429,71cee15e-e570-434b-a01f-df9c86a29473,tumblr
 429,71cee15e-e570-434b-a01f-df9c86a29473,alternative rock
-430,7203c23a-5f31-4847-a50e-8a67bb26b43b,2020s
-430,7203c23a-5f31-4847-a50e-8a67bb26b43b,contemporary r&b
-430,7203c23a-5f31-4847-a50e-8a67bb26b43b,r&b
 430,7203c23a-5f31-4847-a50e-8a67bb26b43b,pop
-430,7203c23a-5f31-4847-a50e-8a67bb26b43b,dance-pop
+430,7203c23a-5f31-4847-a50e-8a67bb26b43b,2020s
 430,7203c23a-5f31-4847-a50e-8a67bb26b43b,trap soul
+430,7203c23a-5f31-4847-a50e-8a67bb26b43b,r&b
+430,7203c23a-5f31-4847-a50e-8a67bb26b43b,contemporary r&b
+430,7203c23a-5f31-4847-a50e-8a67bb26b43b,dance-pop
 431,721a72fb-a6af-412a-a7e0-c5aa86a6f640,
 432,7236e478-3052-41a5-b411-b181f5b899d3,rock
 432,7236e478-3052-41a5-b411-b181f5b899d3,hard rock
@@ -3084,31 +3084,31 @@
 469,7c60dd21-ad76-46da-8d89-4b3c15e8146e,indie rock
 469,7c60dd21-ad76-46da-8d89-4b3c15e8146e,indie pop
 470,7cb711e2-5980-4396-9390-e3c32d524126,dance-pop
-470,7cb711e2-5980-4396-9390-e3c32d524126,r&b
+470,7cb711e2-5980-4396-9390-e3c32d524126,hypnagogic pop
+470,7cb711e2-5980-4396-9390-e3c32d524126,2020s
+470,7cb711e2-5980-4396-9390-e3c32d524126,2010s
 470,7cb711e2-5980-4396-9390-e3c32d524126,synth-pop
 470,7cb711e2-5980-4396-9390-e3c32d524126,pop
 470,7cb711e2-5980-4396-9390-e3c32d524126,contemporary r&b
-470,7cb711e2-5980-4396-9390-e3c32d524126,2010s
+470,7cb711e2-5980-4396-9390-e3c32d524126,r&b
 470,7cb711e2-5980-4396-9390-e3c32d524126,alternative r&b
-470,7cb711e2-5980-4396-9390-e3c32d524126,2020s
-470,7cb711e2-5980-4396-9390-e3c32d524126,hypnagogic pop
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,synth-pop
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,contemporary r&b
 471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,2020s
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,pop
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,cloud rap
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,r&b
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,dance-pop
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,rap
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,southern hip hop
 471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,trap
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,hypnagogic pop
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,cloud rap
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,plugg
 471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,rage
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,hip hop
 471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,english
 471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,2010s
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,dance-pop
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,hypnagogic pop
 471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,alternative r&b
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,southern hip hop
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,hip hop
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,rap
-471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,plugg
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,r&b
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,contemporary r&b
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,pop
+471,7cbac5db-bb4c-4f88-a0a3-54dbc6f4ba78,synth-pop
 472,7ce69c39-c8a0-4989-8264-328fdb2a9cdc,
 473,7d0b688f-089c-4bea-8331-cd24f7f6cedc,progressive metal
 473,7d0b688f-089c-4bea-8331-cd24f7f6cedc,alternative rock
@@ -3409,30 +3409,30 @@
 514,883dcc72-af0b-4195-902a-409a933bf6ac,tumblr
 514,883dcc72-af0b-4195-902a-409a933bf6ac,soul
 515,886be501-92a6-4f7c-a819-183f9bfb8d0f,
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,southern hip hop
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,southern hip hop
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,rap
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,rage
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,hip hop
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,hip hop
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,english
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,southern hip hop
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,experimental hip hop
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,hip hop
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,2020s
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,trap
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,rap
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,2010s
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,trap rap
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,english
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,hip hop
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,english
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,southern hip hop
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,hip hop
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,trap
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,hip hop
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,2020s
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,english
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,cloud rap
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,plugg
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,rage
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,hip hop
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,english
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,pop rap
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,trap
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,plugg
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,southern hip hop
+516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,southern hip hop
 516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,trap
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,trap
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,rap
-516,8926d38f-feac-4a3f-a1f4-591f0f25e2f4,cloud rap
 517,892f5592-bae2-45b5-9069-e2f781237d8b,rapper
 517,892f5592-bae2-45b5-9069-e2f781237d8b,trap
 517,892f5592-bae2-45b5-9069-e2f781237d8b,southern hip hop
@@ -3643,22 +3643,22 @@
 543,91bd08d0-f36c-45af-ba08-787c2b1e010d,alternative rock
 543,91bd08d0-f36c-45af-ba08-787c2b1e010d,indie pop
 544,91ed8df8-d26b-4802-bafb-a54599c1a497,
-545,92155ba2-b134-4f38-b964-1d80eb1bd75e,alternative pop
-545,92155ba2-b134-4f38-b964-1d80eb1bd75e,trap
 545,92155ba2-b134-4f38-b964-1d80eb1bd75e,southern hip hop
 545,92155ba2-b134-4f38-b964-1d80eb1bd75e,english
-545,92155ba2-b134-4f38-b964-1d80eb1bd75e,rap
-545,92155ba2-b134-4f38-b964-1d80eb1bd75e,hip hop
-545,92155ba2-b134-4f38-b964-1d80eb1bd75e,indie pop
 545,92155ba2-b134-4f38-b964-1d80eb1bd75e,experimental hip hop
+545,92155ba2-b134-4f38-b964-1d80eb1bd75e,trap
+545,92155ba2-b134-4f38-b964-1d80eb1bd75e,rap
 545,92155ba2-b134-4f38-b964-1d80eb1bd75e,pop rap
-546,92dc3758-10e8-4a22-92f8-1b43e0ce00c1,2020s
-546,92dc3758-10e8-4a22-92f8-1b43e0ce00c1,trap
+545,92155ba2-b134-4f38-b964-1d80eb1bd75e,indie pop
+545,92155ba2-b134-4f38-b964-1d80eb1bd75e,alternative pop
+545,92155ba2-b134-4f38-b964-1d80eb1bd75e,hip hop
 546,92dc3758-10e8-4a22-92f8-1b43e0ce00c1,hip hop
 546,92dc3758-10e8-4a22-92f8-1b43e0ce00c1,english
 546,92dc3758-10e8-4a22-92f8-1b43e0ce00c1,trap rap
 546,92dc3758-10e8-4a22-92f8-1b43e0ce00c1,2010s
+546,92dc3758-10e8-4a22-92f8-1b43e0ce00c1,2020s
 546,92dc3758-10e8-4a22-92f8-1b43e0ce00c1,southern hip hop
+546,92dc3758-10e8-4a22-92f8-1b43e0ce00c1,trap
 547,933ae3a5-2a69-48d7-a586-8388a24f37f9,heavy metal
 547,933ae3a5-2a69-48d7-a586-8388a24f37f9,trancecore
 547,933ae3a5-2a69-48d7-a586-8388a24f37f9,post-hardcore
@@ -3833,22 +3833,22 @@
 572,9aa8eb37-358c-4658-a946-6e03ab66ceb2,progressive rap
 572,9aa8eb37-358c-4658-a946-6e03ab66ceb2,jazz
 572,9aa8eb37-358c-4658-a946-6e03ab66ceb2,r&b
+573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,southern hip hop
+573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,trap
+573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,southern hip hop
 573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,2020s
 573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,2010s
 573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,trap rap
-573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,experimental hip hop
-573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,pop rap
-573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,southern hip hop
-573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,southern hip hop
-573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,trap
+573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,english
 573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,hip hop
+573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,hip hop
+573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,trap
+573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,trap
 573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,hip hop
 573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,rap
-573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,trap
 573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,english
-573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,trap
-573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,hip hop
-573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,english
+573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,experimental hip hop
+573,9aaf6fdf-42d6-42bd-89f8-514d0c19edee,pop rap
 574,9aca4fb5-6408-463e-8584-79169217b45d,r&b
 574,9aca4fb5-6408-463e-8584-79169217b45d,alternative hip hop
 574,9aca4fb5-6408-463e-8584-79169217b45d,dancehall
@@ -3913,18 +3913,18 @@
 580,9b75b02f-942f-4b5b-83fa-0aeab2f236de,dance
 580,9b75b02f-942f-4b5b-83fa-0aeab2f236de,house
 580,9b75b02f-942f-4b5b-83fa-0aeab2f236de,progressive rap
-581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,pop
-581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,swancore
 581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,alternative/indie rock
-581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,emocore
-581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,post-hardcore
-581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,screamo
-581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,emo
-581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,math rock
 581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,experimental
+581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,math rock
 581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,metalcore
-581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,hardcore
+581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,post-hardcore
+581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,pop
 581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,rock
+581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,emo
+581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,emocore
+581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,screamo
+581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,hardcore
+581,9bb1b3b2-93da-4601-b68f-ba60fe7ebf2f,swancore
 582,9c78fe42-c3ac-4ea3-b6af-e5b7e397a30f,post-metal
 582,9c78fe42-c3ac-4ea3-b6af-e5b7e397a30f,progressive metal
 582,9c78fe42-c3ac-4ea3-b6af-e5b7e397a30f,djent
@@ -4077,13 +4077,13 @@
 606,a16c1d19-9af2-4fce-8c48-6fb9a91be1bd,hip hop
 606,a16c1d19-9af2-4fce-8c48-6fb9a91be1bd,rapper
 607,a1a42f8a-bef2-4611-826a-254928e4a2ad,southern hip hop
-607,a1a42f8a-bef2-4611-826a-254928e4a2ad,rap
-607,a1a42f8a-bef2-4611-826a-254928e4a2ad,hip hop
-607,a1a42f8a-bef2-4611-826a-254928e4a2ad,conscious hip hop
 607,a1a42f8a-bef2-4611-826a-254928e4a2ad,trap
-607,a1a42f8a-bef2-4611-826a-254928e4a2ad,hardcore hip hop
+607,a1a42f8a-bef2-4611-826a-254928e4a2ad,hip hop
 607,a1a42f8a-bef2-4611-826a-254928e4a2ad,trap metal
 607,a1a42f8a-bef2-4611-826a-254928e4a2ad,underground
+607,a1a42f8a-bef2-4611-826a-254928e4a2ad,conscious hip hop
+607,a1a42f8a-bef2-4611-826a-254928e4a2ad,hardcore hip hop
+607,a1a42f8a-bef2-4611-826a-254928e4a2ad,rap
 608,a1b03541-996c-4a2d-8164-648ba079bc93,alternative r&b
 608,a1b03541-996c-4a2d-8164-648ba079bc93,alternative pop
 608,a1b03541-996c-4a2d-8164-648ba079bc93,djent
@@ -4114,15 +4114,15 @@
 614,a451af21-a4a0-42e5-9ef7-9f0155c7e699,
 615,a45225e6-b89d-4df6-96d4-c033b35b7ad9,alternative
 615,a45225e6-b89d-4df6-96d4-c033b35b7ad9,alternative pop
-616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,r&b
+616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,alternative r&b
 616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,contemporary r&b
 616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,pop
 616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,synth-pop
 616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,hypnagogic pop
-616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,2020s
 616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,dance-pop
+616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,2020s
 616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,2010s
-616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,alternative r&b
+616,a497d5e7-2543-4d6e-9608-0c7e7f16e0be,r&b
 617,a4a8bd2f-b0e4-4b94-8e84-88c6cbe2258d,indie pop
 617,a4a8bd2f-b0e4-4b94-8e84-88c6cbe2258d,alternative rock
 617,a4a8bd2f-b0e4-4b94-8e84-88c6cbe2258d,pop
@@ -4698,13 +4698,13 @@
 702,bda7507c-1aad-46d1-a68e-a6a68f81a056,2020s
 702,bda7507c-1aad-46d1-a68e-a6a68f81a056,millennial
 702,bda7507c-1aad-46d1-a68e-a6a68f81a056,post-hardcore
-703,bda75eb1-e2bc-46b3-83fc-250d73d54004,hip hop
-703,bda75eb1-e2bc-46b3-83fc-250d73d54004,southern hip hop
 703,bda75eb1-e2bc-46b3-83fc-250d73d54004,rap
-703,bda75eb1-e2bc-46b3-83fc-250d73d54004,trap
-703,bda75eb1-e2bc-46b3-83fc-250d73d54004,english
+703,bda75eb1-e2bc-46b3-83fc-250d73d54004,hip hop
 703,bda75eb1-e2bc-46b3-83fc-250d73d54004,experimental hip hop
+703,bda75eb1-e2bc-46b3-83fc-250d73d54004,english
 703,bda75eb1-e2bc-46b3-83fc-250d73d54004,pop rap
+703,bda75eb1-e2bc-46b3-83fc-250d73d54004,southern hip hop
+703,bda75eb1-e2bc-46b3-83fc-250d73d54004,trap
 704,be123684-44d6-406e-90c4-54f5e65836a0,
 705,be1a5bfc-c9b9-4de7-89f0-22dbeacb0dc5,indie pop
 705,be1a5bfc-c9b9-4de7-89f0-22dbeacb0dc5,alternative rock
@@ -4720,22 +4720,22 @@
 707,bf08f362-f6ac-42ab-8f19-d840b90625f6,country
 707,bf08f362-f6ac-42ab-8f19-d840b90625f6,red dirt
 707,bf08f362-f6ac-42ab-8f19-d840b90625f6,americana
-708,bf850680-3039-48b3-ae2c-82be332265ff,rap
-708,bf850680-3039-48b3-ae2c-82be332265ff,top 100
-708,bf850680-3039-48b3-ae2c-82be332265ff,trap
-708,bf850680-3039-48b3-ae2c-82be332265ff,top 10
-708,bf850680-3039-48b3-ae2c-82be332265ff,hip-hop
-708,bf850680-3039-48b3-ae2c-82be332265ff,top 5
-708,bf850680-3039-48b3-ae2c-82be332265ff,pop
-708,bf850680-3039-48b3-ae2c-82be332265ff,sxsw
 708,bf850680-3039-48b3-ae2c-82be332265ff,trap rap
-708,bf850680-3039-48b3-ae2c-82be332265ff,alternative r&b
-708,bf850680-3039-48b3-ae2c-82be332265ff,pop rap
-708,bf850680-3039-48b3-ae2c-82be332265ff,contemporary r&b
-708,bf850680-3039-48b3-ae2c-82be332265ff,hip hop
-708,bf850680-3039-48b3-ae2c-82be332265ff,southern hip hop
 708,bf850680-3039-48b3-ae2c-82be332265ff,r&b
+708,bf850680-3039-48b3-ae2c-82be332265ff,pop rap
+708,bf850680-3039-48b3-ae2c-82be332265ff,rap
+708,bf850680-3039-48b3-ae2c-82be332265ff,pop
+708,bf850680-3039-48b3-ae2c-82be332265ff,hip-hop
 708,bf850680-3039-48b3-ae2c-82be332265ff,hardcore hip hop
+708,bf850680-3039-48b3-ae2c-82be332265ff,trap
+708,bf850680-3039-48b3-ae2c-82be332265ff,alternative r&b
+708,bf850680-3039-48b3-ae2c-82be332265ff,hip hop
+708,bf850680-3039-48b3-ae2c-82be332265ff,contemporary r&b
+708,bf850680-3039-48b3-ae2c-82be332265ff,top 100
+708,bf850680-3039-48b3-ae2c-82be332265ff,top 5
+708,bf850680-3039-48b3-ae2c-82be332265ff,top 10
+708,bf850680-3039-48b3-ae2c-82be332265ff,sxsw
+708,bf850680-3039-48b3-ae2c-82be332265ff,southern hip hop
 709,bfd84871-2523-40e5-a70f-04c9b0e28acf,melodic metalcore
 709,bfd84871-2523-40e5-a70f-04c9b0e28acf,electronic
 709,bfd84871-2523-40e5-a70f-04c9b0e28acf,metalcore
@@ -4777,41 +4777,41 @@
 711,c04be46a-a86d-46ff-8ef2-c0beb53dc42e,hip hop
 711,c04be46a-a86d-46ff-8ef2-c0beb53dc42e,rap
 712,c0aa8d98-c426-4f32-86a5-0262e1dd3633,
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,pop
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,trap
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,pop rap
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,lil durk
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,r&b
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hip hop soul
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,contemporary r&b
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,contemporary r&b
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,pop
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,top 10
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hip hop
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,top 100
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,alternative r&b
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,trap rap
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,electronic
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,trap
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,alternative r&b
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,best female rapper
 713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,rap
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,pop
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hip hop soul
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,trap
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,southern hip hop
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,sxsw
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,top 10
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,top 5
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,top 100
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hardcore hip hop
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hip-hop
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,pop
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,lil durk
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,drake
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,sexxy red
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,best female rapper
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,top 100
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,austin city limits
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,neo soul
 713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,best female artist
 713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,r&b
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,southern hip hop
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hardcore hip hop
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,austin city limits
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,sexxy red
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,neo soul
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,contemporary r&b
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,alternative r&b
 713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,rap
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hip-hop
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,top 5
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hip hop
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,sxsw
 713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,sxsw
 713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,american
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,top 100
-713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,drake
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,electronic
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hip hop
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,trap
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,alternative r&b
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,hip hop
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,contemporary r&b
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,r&b
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,pop rap
+713,c0e6d606-b7c8-4716-8659-3682b5c3fb45,trap rap
 714,c13b998e-50d0-4671-8912-d079e85a577e,art pop
 714,c13b998e-50d0-4671-8912-d079e85a577e,progressive metal
 714,c13b998e-50d0-4671-8912-d079e85a577e,alternative pop
@@ -4933,8 +4933,8 @@
 745,c9010c73-7280-48c0-a324-5541e62c22b3,tumblr
 745,c9010c73-7280-48c0-a324-5541e62c22b3,indie pop
 746,c903c97d-5bb4-40bd-b2d4-1d4adfb092a0,post-hardcore
-746,c903c97d-5bb4-40bd-b2d4-1d4adfb092a0,progressive rock
 746,c903c97d-5bb4-40bd-b2d4-1d4adfb092a0,alternative rock
+746,c903c97d-5bb4-40bd-b2d4-1d4adfb092a0,progressive rock
 747,c916f299-8421-4470-95f5-b2d135d67679,hip hop
 747,c916f299-8421-4470-95f5-b2d135d67679,gangsta rap
 747,c916f299-8421-4470-95f5-b2d135d67679,english
@@ -4947,36 +4947,36 @@
 747,c916f299-8421-4470-95f5-b2d135d67679,rap
 747,c916f299-8421-4470-95f5-b2d135d67679,hip hop
 747,c916f299-8421-4470-95f5-b2d135d67679,neo soul
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,music for soccer moms
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,metalcore
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,alternative metal
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,melodic metalcore
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,pop rock
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,deathcore
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,drum and bass
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,screamo
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,psychedelic rock
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,alternative rock
 748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,alternative/indie rock
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,electronic rock
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,emo
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,pop
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,rock
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,post-hardcore
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,pop
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,guitarist
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,dance-pop
 748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,folk
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,music for soccer moms
 748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,singer-songwriter
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,soft rock
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,persian pop
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,guitarist
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,folk pop
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,pop
 748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,hard rock
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,pop
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,nu metal
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,psychedelic rock
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,emo
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,melodic metalcore
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,alternative rock
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,rock
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,house
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,screamo
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,electronic
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,post-hardcore
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,metalcore
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,deathcore
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,pop rock
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,drum and bass
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,alternative metal
+748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,electronic rock
 748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,uk
 748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,singer
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,soft rock
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,dance-pop
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,folk pop
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,persian pop
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,house
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,electronic
-748,c9196b0f-a2e3-4776-bd6a-4ccb174d8e30,nu metal
 749,c97c4bf7-0f9c-4b4a-b05d-594b4f8d19ba,post-hardcore
 749,c97c4bf7-0f9c-4b4a-b05d-594b4f8d19ba,hardcore
 749,c97c4bf7-0f9c-4b4a-b05d-594b4f8d19ba,alternative rock
@@ -5054,18 +5054,18 @@
 759,cb12a5b8-8b39-4c97-96e5-10af0721c5fa,alternative rock
 759,cb12a5b8-8b39-4c97-96e5-10af0721c5fa,tumblr
 759,cb12a5b8-8b39-4c97-96e5-10af0721c5fa,indie pop
+760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,emo
+760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,post-hardcore
+760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,pop
+760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,metalcore
+760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,screamo
+760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,alternative/indie rock
+760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,hardcore
 760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,swancore
 760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,emocore
-760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,screamo
-760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,post-hardcore
-760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,emo
-760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,experimental
 760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,math rock
-760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,metalcore
-760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,hardcore
-760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,pop
 760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,rock
-760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,alternative/indie rock
+760,cb2868cc-f105-4e75-ba82-5ceb24cbefbd,experimental
 761,cb5218b4-0e0d-4c90-9492-234c00b21010,hip hop
 761,cb5218b4-0e0d-4c90-9492-234c00b21010,trap
 761,cb5218b4-0e0d-4c90-9492-234c00b21010,rapper
@@ -5308,21 +5308,21 @@
 790,d1aafb17-54ae-47d3-bcde-af2b7c6da925,alternative r&b
 790,d1aafb17-54ae-47d3-bcde-af2b7c6da925,progressive metal
 790,d1aafb17-54ae-47d3-bcde-af2b7c6da925,progressive rock
-791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,southern hip hop
-791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,experimental hip hop
-791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,trap
 791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,pop rap
 791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,hip hop
 791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,rap
 791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,english
-792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,2020s
-792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,trap rap
-792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,hip hop
-792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,trap
-792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,english
-792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,2010s
-792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,hip hop
+791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,southern hip hop
+791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,experimental hip hop
+791,d1b1a123-9785-4c88-8ec3-bfc0b0954635,trap
 792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,southern hip hop
+792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,trap
+792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,hip hop
+792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,2010s
+792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,trap rap
+792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,english
+792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,hip hop
+792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,2020s
 792,d1b2f554-0908-42e9-bcae-771bc7b20dc1,trap
 793,d1d50789-4c34-4d66-9d57-e1e4bd593902,easycore
 793,d1d50789-4c34-4d66-9d57-e1e4bd593902,rock
@@ -5347,49 +5347,49 @@
 797,d2673f10-e293-4e27-bc5e-b8e7858bf82a,tumblr
 797,d2673f10-e293-4e27-bc5e-b8e7858bf82a,indie pop
 797,d2673f10-e293-4e27-bc5e-b8e7858bf82a,alternative rock
-798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,hardcore
-798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,screamo
-798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,post-hardcore
+798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,rock
 798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,emocore
-798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,alternative/indie rock
 798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,emo
 798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,swancore
+798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,pop
+798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,alternative/indie rock
+798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,metalcore
 798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,math rock
 798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,experimental
-798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,metalcore
-798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,pop
-798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,rock
+798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,screamo
+798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,hardcore
+798,d2cc96ef-9f6a-4ae5-9fed-8dee8807f365,post-hardcore
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,2020s
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,2020s
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,gangsta rap
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,alternative hip hop
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,hardcore hip hop
 799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,conscious hip hop
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,jazz rap
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,west coast hip hop
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,hip hop
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,rap
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,r&b
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,pop rap
 799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,conscious rapper
 799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,contemporary rap
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,progressive rap
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,2020s
 799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,future bass
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,trap
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,hardcore hip hop
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,jazz rap
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,2010s
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,r&b
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,west coast hip hop
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,alternative hip hop
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,pop rap
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,gangsta rap
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,disco
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,hip hop
 799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,house
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,dance
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,jazz
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,hip hop
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,southern hip hop
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,english
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,2010s
 799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,trap
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,trap rap
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,rap
 799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,pop
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,dance
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,disco
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,progressive rap
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,jazz
 799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,trap
 799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,hip hop
-799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,2020s
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,hip hop
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,english
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,trap rap
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,2010s
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,2010s
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,southern hip hop
+799,d4133a55-d72a-4ced-9a4d-d8afb4bd2058,trap
 800,d419bcac-5bdb-4b23-8190-f844950fdefc,rock
 801,d42528ce-1853-40dc-8909-23e96a91cbba,melodic metalcore
 801,d42528ce-1853-40dc-8909-23e96a91cbba,house
@@ -5497,18 +5497,18 @@
 809,d6854daf-ad89-4c43-b695-9270c0b91e4f,alternative/indie rock
 810,d6941262-1e59-438d-a768-3c41eaef6817,hip hop
 810,d6941262-1e59-438d-a768-3c41eaef6817,rap
+811,d6b8465c-384d-444a-8015-1d7405cbb743,alternative/indie rock
 811,d6b8465c-384d-444a-8015-1d7405cbb743,pop
 811,d6b8465c-384d-444a-8015-1d7405cbb743,swancore
-811,d6b8465c-384d-444a-8015-1d7405cbb743,alternative/indie rock
-811,d6b8465c-384d-444a-8015-1d7405cbb743,emocore
-811,d6b8465c-384d-444a-8015-1d7405cbb743,post-hardcore
-811,d6b8465c-384d-444a-8015-1d7405cbb743,screamo
-811,d6b8465c-384d-444a-8015-1d7405cbb743,emo
-811,d6b8465c-384d-444a-8015-1d7405cbb743,math rock
-811,d6b8465c-384d-444a-8015-1d7405cbb743,experimental
-811,d6b8465c-384d-444a-8015-1d7405cbb743,metalcore
 811,d6b8465c-384d-444a-8015-1d7405cbb743,hardcore
+811,d6b8465c-384d-444a-8015-1d7405cbb743,screamo
+811,d6b8465c-384d-444a-8015-1d7405cbb743,emocore
+811,d6b8465c-384d-444a-8015-1d7405cbb743,emo
 811,d6b8465c-384d-444a-8015-1d7405cbb743,rock
+811,d6b8465c-384d-444a-8015-1d7405cbb743,post-hardcore
+811,d6b8465c-384d-444a-8015-1d7405cbb743,experimental
+811,d6b8465c-384d-444a-8015-1d7405cbb743,math rock
+811,d6b8465c-384d-444a-8015-1d7405cbb743,metalcore
 812,d71e1d94-1d0e-4820-96bb-4aef1d3804ec,hip hop
 812,d71e1d94-1d0e-4820-96bb-4aef1d3804ec,rapper
 812,d71e1d94-1d0e-4820-96bb-4aef1d3804ec,southern hip hop
@@ -5747,25 +5747,25 @@
 850,dfa1852a-50ff-453d-a52e-f17707aa67ce,metalcore
 850,dfa1852a-50ff-453d-a52e-f17707aa67ce,deathcore
 850,dfa1852a-50ff-453d-a52e-f17707aa67ce,melodic metalcore
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,hip hop
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,moombahton
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,electropop
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,hip hop
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,pop rap
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,experimental hip hop
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,southern hip hop
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,english
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,rap
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,hip hop
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,contemporary r&b
 851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,southern hip hop
 851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,trap
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,electropop
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,trap
+851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,2010s
 851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,dance
 851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,edm
 851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,alternative r&b
 851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,trap
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,experimental hip hop
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,english
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,pop rap
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,contemporary r&b
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,trap
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,2010s
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,southern hip hop
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,hip hop
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,hip hop
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,moombahton
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,hip hop
-851,dfc2f4c3-94e1-4385-a3bc-d09c8a83a15e,rap
 852,dfdc8c05-465d-4262-9a34-3937b8e0c37f,contemporary r&b
 852,dfdc8c05-465d-4262-9a34-3937b8e0c37f,alternative r&b
 852,dfdc8c05-465d-4262-9a34-3937b8e0c37f,trap
@@ -6137,13 +6137,13 @@
 906,ecaaf9c2-d6ec-43d0-ae8e-30a87b46d4fd,post-hardcore
 906,ecaaf9c2-d6ec-43d0-ae8e-30a87b46d4fd,metalcore
 906,ecaaf9c2-d6ec-43d0-ae8e-30a87b46d4fd,hardcore
-907,ecd644ff-aba9-4901-ab6b-276408dc0364,2010s
-907,ecd644ff-aba9-4901-ab6b-276408dc0364,trap rap
-907,ecd644ff-aba9-4901-ab6b-276408dc0364,hip hop
-907,ecd644ff-aba9-4901-ab6b-276408dc0364,english
 907,ecd644ff-aba9-4901-ab6b-276408dc0364,trap
-907,ecd644ff-aba9-4901-ab6b-276408dc0364,southern hip hop
 907,ecd644ff-aba9-4901-ab6b-276408dc0364,2020s
+907,ecd644ff-aba9-4901-ab6b-276408dc0364,southern hip hop
+907,ecd644ff-aba9-4901-ab6b-276408dc0364,trap rap
+907,ecd644ff-aba9-4901-ab6b-276408dc0364,english
+907,ecd644ff-aba9-4901-ab6b-276408dc0364,hip hop
+907,ecd644ff-aba9-4901-ab6b-276408dc0364,2010s
 908,ed383ba1-e4c4-4c3c-9498-b2fc3169ed91,rapcore
 908,ed383ba1-e4c4-4c3c-9498-b2fc3169ed91,alternative metal
 908,ed383ba1-e4c4-4c3c-9498-b2fc3169ed91,post-hardcore
@@ -6252,10 +6252,10 @@
 920,f078699c-9b68-4040-9ba4-b1e4f7d86598,alternative rock
 920,f078699c-9b68-4040-9ba4-b1e4f7d86598,dance music
 921,f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83,latin
-921,f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83,reggaeton
-921,f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83,hip hop
 921,f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83,trap latino
 921,f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83,latin trap
+921,f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83,hip hop
+921,f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83,reggaeton
 922,f110dbe1-6124-4b8b-b19e-159ab8194eef,rock
 922,f110dbe1-6124-4b8b-b19e-159ab8194eef,nu metal
 922,f110dbe1-6124-4b8b-b19e-159ab8194eef,hard rock
@@ -6344,13 +6344,13 @@
 932,f2aea3a7-07b5-4ebb-b035-a08d29d1542d,indie pop
 933,f2bd2dc5-46c5-49e8-a083-5f58f62606ae,post-hardcore
 933,f2bd2dc5-46c5-49e8-a083-5f58f62606ae,rock
-934,f2c1ef66-a862-4570-87c5-c9110beb51bb,hip hop
-934,f2c1ef66-a862-4570-87c5-c9110beb51bb,southern hip hop
-934,f2c1ef66-a862-4570-87c5-c9110beb51bb,english
 934,f2c1ef66-a862-4570-87c5-c9110beb51bb,rap
 934,f2c1ef66-a862-4570-87c5-c9110beb51bb,trap
-934,f2c1ef66-a862-4570-87c5-c9110beb51bb,experimental hip hop
 934,f2c1ef66-a862-4570-87c5-c9110beb51bb,pop rap
+934,f2c1ef66-a862-4570-87c5-c9110beb51bb,experimental hip hop
+934,f2c1ef66-a862-4570-87c5-c9110beb51bb,southern hip hop
+934,f2c1ef66-a862-4570-87c5-c9110beb51bb,english
+934,f2c1ef66-a862-4570-87c5-c9110beb51bb,hip hop
 935,f2ec3b75-8f32-45ba-970f-05d994e1fd19,trap
 935,f2ec3b75-8f32-45ba-970f-05d994e1fd19,rapper
 935,f2ec3b75-8f32-45ba-970f-05d994e1fd19,southern hip hop
@@ -6716,32 +6716,32 @@
 991,fd9d5344-379d-4cc5-9b4b-88cdd6ed9e76,emo pop
 991,fd9d5344-379d-4cc5-9b4b-88cdd6ed9e76,post-hardcore
 991,fd9d5344-379d-4cc5-9b4b-88cdd6ed9e76,alternative rock
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,rap
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,english
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hardcore hip hop
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hip hop
 992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,pop rap
 992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,experimental hip hop
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hip hop
 992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,southern hip hop
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,trap
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hip hop
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,top 10
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,english
 992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,rap
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hip hop
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,trap
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,trap
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,pop rap
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hip hop
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,pop
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hip-hop
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hardcore hip hop
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,top 100
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,top 5
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,top 10
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,sxsw
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,southern hip hop
 992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,trap
 992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,alternative r&b
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hip hop
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,pop rap
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,trap
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,pop rap
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,southern hip hop
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,r&b
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,top 5
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,pop
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,sxsw
 992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,contemporary r&b
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,r&b
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,pop rap
 992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,trap rap
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,top 100
-992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,hip-hop
+992,fdc14ab6-3403-496b-99b3-1dd3fb4a8fa8,rap
 993,fddb92b8-f9f1-4545-9d7d-bf2931bd9b54,hip hop
 993,fddb92b8-f9f1-4545-9d7d-bf2931bd9b54,alternative r&b
 993,fddb92b8-f9f1-4545-9d7d-bf2931bd9b54,trap
